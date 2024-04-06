@@ -1,5 +1,5 @@
 {
-  "name": "appium-espresso-driver",
+  "name": "forked-driver",
   "description": "Espresso integration for Appium",
   "keywords": [
     "appium",
@@ -27,8 +27,8 @@
     "singleQuote": true
   },
   "appium": {
-    "driverName": "espresso",
-    "automationName": "Espresso",
+    "driverName": "forked-driver",
+    "automationName": "forked-driver",
     "platformNames": [
       "Android"
     ],
